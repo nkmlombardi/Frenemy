@@ -10,7 +10,8 @@
  */
 var Gametypes = {
     id:             0000,
-    name:           'Game Name'
+    name:           'Game Name',
+    slug:           'slugified-name',
     ruleset: {
         key:            value,
         key:            value,
