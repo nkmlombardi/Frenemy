@@ -6,7 +6,7 @@ var gameController = function(game, players) {
     var phases = new array[this.GameType.phases];   // array
 
     while (players.count >= GameType.endGamePlayerCount) {
-        if (timeout <= (timeout * .80)) {
+        if (timeout <= (timeout * 0.80)) {
             game.openVoting();
             game.decrementPhase();
         }
