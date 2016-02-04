@@ -14,7 +14,7 @@ var Game = function() {
         // Listen for new votes
     };
 
-    var decremenetPhase = function() {
+    var decrementPhase = function() {
         if (phase > 0) {
             phase--;
         } else {
@@ -37,7 +37,4 @@ var Game = function() {
 
         // Change player statuses of losing players to out
     };
-
-    
-
 };
