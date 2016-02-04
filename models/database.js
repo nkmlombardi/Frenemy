@@ -117,11 +117,3 @@ var Votes = {
     created:        ISODate("0000-00-00T00:00:00+00:00"),
     modified:       ISODate("0000-00-00T00:00:00+00:00")
 };
-
-var Matchmaking = {
-    id:             00000000,
-    account:        00000000,
-    gametype:       0000,
-    created:        ISODate("0000-00-00T00:00:00+00:00"),
-    modified:       ISODate("0000-00-00T00:00:00+00:00")
-};
